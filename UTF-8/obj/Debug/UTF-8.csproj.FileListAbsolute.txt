@@ -1,0 +1,7 @@
+c:\users\pavel\documents\visual studio 2013\Projects\UTF-8\UTF-8\bin\Debug\UTF-8.exe.config
+c:\users\pavel\documents\visual studio 2013\Projects\UTF-8\UTF-8\bin\Debug\UTF-8.exe
+c:\users\pavel\documents\visual studio 2013\Projects\UTF-8\UTF-8\bin\Debug\UTF-8.pdb
+c:\users\pavel\documents\visual studio 2013\Projects\UTF-8\UTF-8\obj\Debug\UTF-8.exe
+c:\users\pavel\documents\visual studio 2013\Projects\UTF-8\UTF-8\obj\Debug\UTF-8.pdb
+c:\users\pavel\documents\visual studio 2013\Projects\UTF-8\UTF-8\obj\Debug\UTF-8.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2013\Projects\UTF-8\UTF-8\bin\Debug\Ude.dll
